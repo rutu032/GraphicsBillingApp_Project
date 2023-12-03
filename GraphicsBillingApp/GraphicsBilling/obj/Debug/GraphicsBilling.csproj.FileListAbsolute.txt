@@ -1,0 +1,466 @@
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.csprojResolveAssemblyReference.cache
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Properties.Resources.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.csproj.GenerateResource.Cache
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\GraphicsBilling.exe
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\GraphicsBilling.pdb
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmReport.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmOrderbill.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmProfile.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogo.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmbilling.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmcreatecustomer.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmorder.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmNewDashboard.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmgstCollection1.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmpendingorders1.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmtodaycollection.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogin.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmRegistration1.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmaddnameSiez.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Paymenthistory.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\RdlCompile.cache
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\RdlCompile.compiled
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.RDLC_Report.FrmPaymentHistory2.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmOrder.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmGetCompanyID.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmPaymentHistory.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLogout.resources
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\Database1.mdf
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\Database1_log.ldf
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\DatabaseTable.mdf
+D:\Backup Project\GraphicsBilling\GraphicsBilling\bin\Debug\DatabaseTable_log.ldf
+D:\Backup Project\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmChartGraph.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\Database1.mdf
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\Database1_log.ldf
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\DatabaseTable.mdf
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\DatabaseTable_log.ldf
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.csprojResolveAssemblyReference.cache
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmaddnameSiez.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmbilling.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmChartGraph.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmcreatecustomer.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmGetCompanyID.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmgstCollection1.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogin.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogo.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLogout.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmorder.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmOrderbill.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmpendingorders1.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmProfile.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmRegistration1.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Frmtodaycollection.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.FrmNewDashboard.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Paymenthistory.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.Properties.Resources.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.RDLC_Report.FrmPaymentHistory2.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmOrder.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmPaymentHistory.resources
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\GraphicsBilling.csproj.GenerateResource.Cache
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\RdlCompile.cache
+D:\C# (Project Work)\GraphicsBilling\GraphicsBilling\obj\Debug\RdlCompile.compiled
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1.mdf
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1_log.ldf
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable.mdf
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable_log.ldf
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csprojResolveAssemblyReference.cache
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmaddnameSiez.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmbilling.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmChartGraph.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmcreatecustomer.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmGetCompanyID.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmgstCollection1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogin.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogo.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLogout.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmorder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmOrderbill.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmpendingorders1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmProfile.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmRegistration1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmtodaycollection.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmNewDashboard.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Paymenthistory.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Properties.Resources.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.RDLC_Report.FrmPaymentHistory2.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmOrder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmPaymentHistory.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csproj.GenerateResource.Cache
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.cache
+D:\C# (Project Work)\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.compiled
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1.mdf
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1_log.ldf
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable.mdf
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable_log.ldf
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.pdb
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csprojResolveAssemblyReference.cache
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmaddnameSiez.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmbilling.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmChartGraph.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmcreatecustomer.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmGetCompanyID.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmgstCollection1.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogin.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogo.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLogout.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmorder.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmOrderbill.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmpendingorders1.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmProfile.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmRegistration1.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmtodaycollection.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmNewDashboard.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Paymenthistory.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Properties.Resources.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.RDLC_Report.FrmPaymentHistory2.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmOrder.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmPaymentHistory.resources
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csproj.GenerateResource.Cache
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.cache
+D:\Raghav\C sharp\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.compiled
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1.mdf
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1_log.ldf
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable.mdf
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable_log.ldf
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.pdb
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csprojResolveAssemblyReference.cache
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmaddnameSiez.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmbilling.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmChartGraph.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmcreatecustomer.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmGetCompanyID.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmgstCollection1.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogin.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogo.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLogout.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmorder.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmOrderbill.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmpendingorders1.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmProfile.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmRegistration1.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmtodaycollection.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmNewDashboard.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Paymenthistory.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Properties.Resources.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.RDLC_Report.FrmPaymentHistory2.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmOrder.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmPaymentHistory.resources
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csproj.GenerateResource.Cache
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.cache
+D:\13.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.compiled
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csprojResolveAssemblyReference.cache
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmaddnameSiez.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmbilling.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmChartGraph.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmcreatecustomer.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmGetCompanyID.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmgstCollection1.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogin.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogo.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLogout.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmorder.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmOrderbill.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmpendingorders1.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmProfile.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmRegistration1.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmtodaycollection.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmNewDashboard.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Paymenthistory.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Properties.Resources.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.RDLC_Report.FrmPaymentHistory2.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmOrder.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmPaymentHistory.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csproj.GenerateResource.Cache
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.cache
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.compiled
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1.mdf
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1_log.ldf
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable.mdf
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable_log.ldf
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.pdb
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLinkPendingOrder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1.mdf
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1_log.ldf
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable.mdf
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable_log.ldf
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csprojResolveAssemblyReference.cache
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmaddnameSiez.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmbilling.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmChartGraph.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmcreatecustomer.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmGetCompanyID.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmgstCollection1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLinkPendingOrder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogin.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogo.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLogout.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmorder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmOrderbill.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmpendingorders1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmProfile.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmRegistration1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmtodaycollection.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmNewDashboard.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Paymenthistory.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Properties.Resources.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.RDLC_Report.FrmPaymentHistory2.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmOrder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmPaymentHistory.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csproj.GenerateResource.Cache
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.cache
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.compiled
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1.mdf
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1_log.ldf
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable.mdf
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable_log.ldf
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.pdb
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csprojResolveAssemblyReference.cache
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmaddnameSiez.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmbilling.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmChartGraph.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmcreatecustomer.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmGetCompanyID.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmgstCollection1.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLinkPendingOrder.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogin.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogo.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLogout.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmorder.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmOrderbill.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmpendingorders1.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmProfile.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmRegistration1.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmtodaycollection.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmNewDashboard.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Paymenthistory.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Properties.Resources.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmOrder.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmPaymentHistory.resources
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csproj.GenerateResource.Cache
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.cache
+D:\Rutuja_C# (Backup & Notes)\C# (Backup Project)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.compiled
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1.mdf
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1_log.ldf
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable.mdf
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable_log.ldf
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csprojResolveAssemblyReference.cache
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmaddnameSiez.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmbilling.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmChartGraph.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmcreatecustomer.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmGetCompanyID.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmgstCollection1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLinkPendingOrder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogin.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogo.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLogout.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmorder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmOrderbill.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmpendingorders1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmProfile.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmRegistration1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmtodaycollection.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmNewDashboard.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Paymenthistory.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Properties.Resources.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmOrder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmPaymentHistory.resources
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csproj.GenerateResource.Cache
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.cache
+D:\C# (Project Work)\5.GraphicsBillingApp\5.GraphicsBillingApp\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.compiled
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\5.GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\5.GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe.config
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1.mdf
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\Database1_log.ldf
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable.mdf
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\DatabaseTable_log.ldf
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.exe
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\GraphicsBilling.pdb
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csprojResolveAssemblyReference.cache
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmaddnameSiez.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmbilling.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmChartGraph.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmcreatecustomer.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmGetCompanyID.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmgstCollection1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLinkPendingOrder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogin.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmlogo.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmLogout.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmorder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmOrderbill.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmpendingorders1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmProfile.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmRegistration1.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Frmtodaycollection.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.FrmNewDashboard.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Paymenthistory.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.Properties.Resources.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmOrder.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.rdlcReport.FrmPaymentHistory.resources
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\GraphicsBilling.csproj.GenerateResource.Cache
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.cache
+D:\C# (Project Work)\5.GraphicsBillingApp_Project\GraphicsBillingApp\GraphicsBilling\obj\Debug\RdlCompile.compiled
